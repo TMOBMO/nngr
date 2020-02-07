@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(100,9): warning C4244: '인수': 'usize'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(99): message : 클래스 템플릿 멤버 함수 'void Nonogram<64,64>::setCell(usize,usize,bool)'을(를) 컴파일하는 중입니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(143): message : 컴파일되는 함수 템플릿 인스턴스화 'void Nonogram<64,64>::setCell(usize,usize,bool)'에 대한 참조를 확인하세요.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(256): message : 컴파일되는 클래스 템플릿 인스턴스화 'Nonogram<64,64>'에 대한 참조를 확인하세요.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(100,25): warning C4244: '인수': 'usize'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(101,9): warning C4244: '인수': 'usize'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(101,25): warning C4244: '인수': 'usize'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(49,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(45): message : 클래스 템플릿 멤버 함수 'void Nonogram<64,64>::Line<64>::fillSet(const int,const int,const int,const int)'을(를) 컴파일하는 중입니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(89): message : 컴파일되는 함수 템플릿 인스턴스화 'void Nonogram<64,64>::Line<64>::fillSet(const int,const int,const int,const int)'에 대한 참조를 확인하세요.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(136): message : 컴파일되는 클래스 템플릿 인스턴스화 'Nonogram<64,64>::Line<64>'에 대한 참조를 확인하세요.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(131): message : 클래스 템플릿 멤버 함수 'bool Nonogram<64,64>::solve(void)'을(를) 컴파일하는 중입니다.
+C:\Users\whistler.c.yoo\projects\nngr2\nngr\main.cpp(257): message : 컴파일되는 함수 템플릿 인스턴스화 'bool Nonogram<64,64>::solve(void)'에 대한 참조를 확인하세요.
+  nngr.vcxproj -> C:\Users\whistler.c.yoo\projects\nngr2\Debug\nngr.exe
